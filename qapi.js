@@ -23,7 +23,9 @@ export default {
 	"mode": "production",
 	"projectType": "gatsby",
 	"site": {
-		"styles": {},
+		"styles": {
+			"background": "#E7530B"
+		},
 		"seo": {
 			"title": "Suhama"
 		}

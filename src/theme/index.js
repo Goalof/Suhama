@@ -54,9 +54,9 @@ export default {
 		"headline1": "normal 700 72px/1.1 --fontFamily-googleInter",
 		"headline2": "normal 900 42px/1.2 --fontFamily-sans",
 		"headline3": "normal 700 32px/1.2 --fontFamily-googleInter",
-		"base": "normal 400 18px/1.5 --fontFamily-serifTimes",
+		"base": "normal 400 18px/1.5 --fontFamily-googleInter",
 		"lead": "normal 400 17px/1.5 --fontFamily-googleInter",
-		"headline4": "500 24px/1.3 --fontFamily-serifTimes"
+		"headline4": "500 24px/1.3 --fontFamily-googleInter"
 	},
 	"boxShadow": {
 		"m": "0 4px 5px -1px rgba(0, 0, 0, 0.1)",
@@ -153,7 +153,6 @@ export default {
 			}
 		}
 	},
-	"version": 1,
 	"fonts": {
 		"Inter": {
 			"family": "Inter",
@@ -173,5 +172,6 @@ export default {
 				]
 			}
 		}
-	}
+	},
+	"version": 20
 }
